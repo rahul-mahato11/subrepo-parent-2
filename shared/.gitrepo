@@ -5,8 +5,8 @@
 ;
 [subrepo]
 	remote = git@github.com:rahul-mahato11/shared-subrepo.git
-	branch = main
-	commit = 1e776d7b35d48ba651b8d46d889b99f8b1ae9ad5
-	parent = fd5db2aea626713f8eca447078093997af5ada59
+	branch = staging-sync
+	commit = ae300fb031d741c1d5aa2bde4b024a84edae47a8
+	parent = 93c6279b0195d57f1a2d759157d6996baa07b271
 	method = merge
 	cmdver = 0.4.9
