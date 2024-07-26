@@ -1,0 +1,2 @@
+hello from parent 1
+hello2 from parent 1
